@@ -11,3 +11,4 @@ Check out my website for more.
 - [regexlearn.com](https://regexlearn.com/)
 - [svgps.app](https://svgps.app/)
 - [interactively.info](https://interactively.info/)
+- [checkers.place](https://checkers.place/)
