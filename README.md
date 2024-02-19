@@ -1,8 +1,11 @@
-### Hi 👋, I am Aykut,
-#### Front-end Developer
-I enjoy learning new things, constantly improving myself, producing open source projects and contributing to them. I am also interested in making digital drawings and reading books.
+### Hi, I'm Aykut 👋🏻 
+#### Product Developer
 
-Check out my website for more.
+I enjoy developing `open-source` projects, creating `minimal` and `aesthetic` interfaces. 
+
+Additionally, I am interested in `experience design`.
+
+_Check out my website for more:_ ✨
 
 [aykutkardas.com](https://aykutkardas.com/)
 
@@ -10,6 +13,6 @@ Check out my website for more.
 #### My Side Projects
 - [cloock.co](https://cloock.co/)
 - [regexlearn.com](https://regexlearn.com/)
-- [svgps.app](https://svgps.app/)
 - [interactively.info](https://interactively.info/)
+- [svgps.app](https://svgps.app/)
 - [checkers.place](https://checkers.place/)
