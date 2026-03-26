@@ -5,16 +5,12 @@ I enjoy developing `open-source` projects, creating `minimal` and `aesthetic` in
 
 Additionally, I am interested in `experience design`.
 
-_Check out my bento profile and website for more:_ ✨
-
-- [bento.me/aykutkardas](https://bento.me/aykutkardas)
+_Check out my website for more:_ ✨
 - [aykutkardas.com](https://aykutkardas.com)
 
 
-#### My Side Projects
-- [mindtown.ai](https://mindtown.ai/)
-- [cloock.co](https://cloock.co/)
+#### Some of my side Projects
 - [regexlearn.com](https://regexlearn.com/)
 - [interactively.info](https://interactively.info/)
+- [cloock.co](https://cloock.co/)
 - [svgps.app](https://svgps.app/)
-- [checkers.place](https://checkers.place/)
